@@ -7,7 +7,7 @@ module Full_Adder (
 );
     
     assign s = a^b^carry_in;
-    assign carry_out = (a*b) | (carry_in*(a^b));
+    assign carry_out = (a&b) | (carry_in&(a^b));
 endmodule
     
     
