@@ -1,2 +1,2 @@
 # 4-bit-ALU
-In an Attempt to submerge into the world of electronics and semiconductors , I started learning Basics of digital architecture and Verilog. Built a simple 4-bit ALU out of that. 
+An ALU or an Arithmatic Logic Unit is a CPU component which used to choose and undergo different operations over binary numbers. These Operations Include Addition , Subtraction , AND , OR , XOR , Etc.
