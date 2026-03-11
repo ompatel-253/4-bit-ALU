@@ -6,7 +6,7 @@ module Four_bit_Adder_tb ();
     
     Four_bit_Adder Instance_1 (
     .number_1(number_1),
-    .number_2(numeber_2),
+    .number_2(number_2),
     .num_out(num_out),
     .final_carry(final_carry)
     );
