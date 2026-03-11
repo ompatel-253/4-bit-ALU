@@ -25,7 +25,7 @@ module Four_bit_Adder (
         
         .a(number_1[0]),
         .b(number_2[0]),
-        .carry_in(0),
+        .carry_in(1'b0),
         .s(s_1),
         .carry_out(carry_out_1)
     );
